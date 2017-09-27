@@ -248,14 +248,12 @@ body{
 
 #lvtt{
 	width:100%;
+	float:right;
 	text-align:center;
-	margin-left:-10%;	
 	font-family:'Raleway', sans-serif;
 	font-weight:700;
 	font-size:20px;
-	padding-top:20px;
-	padding-left:30px;
-	
+	padding-top:40px;
 }
 	
 
@@ -573,7 +571,7 @@ body{
 #tutor1box, #tutor2box, #tutor3box, #tutor4box{
 	float: left;
 	width:25%;
-	height:320px;
+	height:315.25px;
 }
 
 #tutor1box{
@@ -807,7 +805,7 @@ body{
 	font-weight:700;
 	font-size:50px;
 	color:#fff;
-	background:url(imgs/team.jpg);
+	background:url(imgs/team.JPG);
 	background-repeat:no-repeat;
 	background-size:cover;
 	
@@ -890,19 +888,19 @@ body{
 }
 
 #pxbx{
-	float:left;
+	float:right;
 	width:100%;
 }
 
 #pingxuan{
-	width:320px;
+	width:315.25px;
 	height:300px;
 	background:#666;
 	float:right;
 }
 
 #px{
-	width:25%;
+	width:315.25px;
 	height:300px;
 	float:right;
 	text-align:center;
